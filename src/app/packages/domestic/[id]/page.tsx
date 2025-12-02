@@ -82,7 +82,7 @@ const packageDetails: Record<string, any> = {
   },
   "ooty": {
     name: "Ooty Hill Station Escape",
-    image: "https://images.unsplash.com/photo-1587974928442-77dc3e9990a72?w=1200&h=600&fit=crop",
+    image: "https://images.hindustantimes.com/img/2023/01/11/1600x900/mugi-jo-6qUltw7SjzM-unsplash_1669276738103_1673425680248_1673425680248.jpg",
     price: "₹12,999",
     duration: "3 Days / 2 Nights",
     groupSize: "2-8 people",
@@ -189,7 +189,7 @@ const packageDetails: Record<string, any> = {
   },
   "andaman": {
     name: "Andaman Island Paradise",
-    image: "https://images.unsplash.com/photo-1589197331516-7e2eef331f26?w=1200&h=600&fit=crop",
+    image: "https://www.tripadventurer.in/wp-content/uploads/2024/01/andaman-nicobar-island-cover-1024x585.jpg",
     price: "₹28,999",
     duration: "5 Days / 4 Nights",
     groupSize: "2-12 people",

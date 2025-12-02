@@ -29,7 +29,7 @@ const domesticPackages = [
   { 
     id: "ooty",
     name: "Ooty", 
-    image: "https://images.unsplash.com/photo-1587974928442-77dc3e9990a72?w=800&h=600&fit=crop", 
+    image: "https://images.hindustantimes.com/img/2023/01/11/1600x900/mugi-jo-6qUltw7SjzM-unsplash_1669276738103_1673425680248_1673425680248.jpg", 
     price: "₹12,999", 
     duration: "3D/2N",
     description: "Discover the Queen of Hill Stations with scenic landscapes",
@@ -56,7 +56,7 @@ const domesticPackages = [
   { 
     id: "andaman",
     name: "Andaman", 
-    image: "https://images.unsplash.com/photo-1589197331516-7e2eef331f26?w=800&h=600&fit=crop", 
+    image: "https://www.tripadventurer.in/wp-content/uploads/2024/01/andaman-nicobar-island-cover-1024x585.jpg", 
     price: "₹28,999", 
     duration: "5D/4N",
     description: "Paradise islands with pristine beaches and coral reefs",

@@ -26,10 +26,10 @@ import Link from "next/link";
 const domesticPackages = [
   { id: "goa", name: "Goa", image: "https://images.unsplash.com/photo-1600011689032-8b628b8a8747?w=800&h=600&fit=crop", price: "₹15,999", duration: "4D/3N" },
   { id: "kerala", name: "Kerala", image: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&h=600&fit=crop", price: "₹18,999", duration: "5D/4N" },
-  { id: "ooty", name: "Ooty", image: "https://images.unsplash.com/photo-1587974928442-77dc3e9990a72?w=800&h=600&fit=crop", price: "₹12,999", duration: "3D/2N" },
+  { id: "ooty", name: "Ooty", image: "https://images.hindustantimes.com/img/2023/01/11/1600x900/mugi-jo-6qUltw7SjzM-unsplash_1669276738103_1673425680248_1673425680248.jpg", price: "₹12,999", duration: "3D/2N" },
   { id: "shimla", name: "Shimla", image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&h=600&fit=crop", price: "₹16,999", duration: "4D/3N" },
   { id: "rajasthan", name: "Rajasthan", image: "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800&h=600&fit=crop", price: "₹22,999", duration: "6D/5N" },
-  { id: "andaman", name: "Andaman", image: "https://images.unsplash.com/photo-1589197331516-7e2eef331f26?w=800&h=600&fit=crop", price: "₹28,999", duration: "5D/4N" },
+  { id: "andaman", name: "Andaman", image: "https://www.tripadventurer.in/wp-content/uploads/2024/01/andaman-nicobar-island-cover-1024x585.jpg", price: "₹28,999", duration: "5D/4N" },
 ];
 
 const internationalPackages = [
@@ -58,7 +58,7 @@ const testimonials = [
 
 export default function Home() {
   const whatsappNumber = "916362673241";
-  const whatsappLink = `https://wa.me/${whatsappNumber}`;
+  const whatsappLink = `https://wa.me/${916362673241}`;
 
   return (
     <div className="min-h-screen">
